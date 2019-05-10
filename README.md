@@ -6,7 +6,8 @@ This is a project of the main `SQL` curriculum at [Microverse](https://www.micro
 
 ### [Assignment link](https://www.theodinproject.com/courses/databases/lessons/sql#project-sql-zoo)
 
-#### The objective is to do tutorials from [SQL ZOO](https://sqlzoo.net) listed under the “Tutorial Section” and the quizzes listed at the end of each tutorials.
+#### The objective is to do tutorials from [SQL ZOO](https://sqlzoo.net) listed under the “Tutorial Section” and the quizzes listed at the end of each tutorials
+
 
 1. SELECT basics
 2. SELECT from world
@@ -17,6 +18,19 @@ This is a project of the main `SQL` curriculum at [Microverse](https://www.micro
 7. More JOIN
 8. Using NULL
 9. Self JOIN
+
+List of tables used (Trucated)
+
+Table `world` (1 and 2)
+
+| name  | continent | area | population | gdp |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Afghanistan  | Asia | 652230 | 25500100 | 20343000000 |
+| Albania  | Europe | 28748 | 2831741 | 12960000000 |
+| Algeria  | Africa | 2381741 | 37100000 | 188681000000 |
+| Andorra  | Europe | 468 | 78115 | 3712000000 |
+| Angola  | Africa | 1246700 | 20609294 | 100990000000 |
+|...|
 
 
 ##### Contact
