@@ -20,7 +20,7 @@ This is a project of the main `SQL` curriculum at [Microverse](https://www.micro
 
 List of tables used (Trucated)
 
-Table `world` (1 and 2)
+Table `world` (1, 2, 4, 5)
 
 | name        | continent | area    | population | gdp          |
 | ----------- | --------- | ------- | ---------- | ------------ |
@@ -40,6 +40,18 @@ Table `nobel` (3)
 | 1960 | Medicine   | Sir Frank Macfarlane Burnet |
 | 1960 | Medicine   | Peter Madawar               |
 | ...  |
+
+Table `bbc` (4 Quiz, 5 Quiz)
+
+| name           | region      | area    | population | gdp           |
+| -------------- | ----------- | ------- | ---------- | ------------- |
+| Afghanistan    | South Asia  | 652225  | 26000000   |               |
+| Albania        | Europe      | 28728   | 3200000    | 6656000000    |
+| Algeria        | Middle East | 2400000 | 32900000   | 75012000000   |
+| Andorra        | Europe      | 468     | 64000      |               |
+| Bangladesh     | South Asia  | 143998  | 152600000  | 67144000000   |
+| United Kingdom | Europe      | 242514  | 59600000   | 2022824000000 |
+| ...            |
 
 ##### Contact
 
