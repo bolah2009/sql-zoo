@@ -92,7 +92,7 @@ FROM nobel
 WHERE yr = 1984
 ORDER BY subject IN ('Chemistry','Physics'), subject, winner
 
--- QUIZ {BBC QUIZ}
+-- QUIZ {Nobel Quiz}
 
 --1. Shows the name of winner's names beginning with C and ending in n
 

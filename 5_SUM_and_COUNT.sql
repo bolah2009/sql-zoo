@@ -109,4 +109,3 @@ SELECT region, SUM(area)
 FROM bbc
 GROUP BY region
 HAVING SUM(area)<= 20000000
-

@@ -93,7 +93,6 @@ WHERE population > ALL (SELECT population*3
 FROM world y
 WHERE y.continent = x.continent AND y.name != x.name)
 
-
 -- QUIZ {Nested SELECT Quiz}
 
 --1. Shows the name, region and population of the smallest country in each region
