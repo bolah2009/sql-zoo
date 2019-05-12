@@ -61,13 +61,3 @@ WHERE area > 50000 AND population < 10000000
 SELECT name, population/area
 FROM world
 WHERE name IN ('China', 'Nigeria', 'France', 'Australia')
-
-
-
-
-
-
-
-
-
-
