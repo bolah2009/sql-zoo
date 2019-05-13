@@ -53,6 +53,36 @@ Table `bbc` (4 Quiz, 5 Quiz)
 | United Kingdom | Europe      | 242514  | 59600000   | 2022824000000 |
 | ...            |
 
+Table `game` (6, 6 Quiz)
+
+| id   | mdate        | stadium                   | team1 | team2 |
+| ---- | ------------ | ------------------------- | ----- | ----- |
+| 1001 | 8 June 2012  | National Stadium, Warsaw  | POL   | GRE   |
+| 1002 | 8 June 2012  | Stadion Miejski (Wroclaw) | RUS   | CZE   |
+| 1003 | 12 June 2012 | Stadion Miejski (Wroclaw) | GRE   | CZE   |
+| 1004 | 12 June 2012 | National Stadium, Warsaw  | POL   | RUS   |
+| ...  |
+
+Table `goal` (6, 6 Quiz)
+
+| matchid | teamid | player               | gtime |
+| ------- | ------ | -------------------- | ----- |
+| 1001    | POL    | Robert Lewandowski   | 17    |
+| 1002    | GRE    | Dimitris Salpingidis | 51    |
+| 1003    | RUS    | Alan Dzagoev         | 15    |
+| 1004    | RUS    | Roman Pavlyuchenko   | 82    |
+| ...     |
+
+Table `eteam` (6, 6 Quiz)
+
+| id  | teamname       | coach            |
+| --- | -------------- | ---------------- |
+| POL | Poland         | Franciszek Smuda |
+| GRE | Russia         | Dick Advocaat    |
+| RUS | Czech Republic | Michal Bilek     |
+| RUS | Greece         | Fernando Santos  |
+| ... |
+
 ##### Contact
 
 - [Web](https://bolabuari.com/) - [Twitter](https://twitter.com/bolah2009) - [GitHub](https://github.com/bolah2009/) - [GitLab](https://gitlab.com/bolah2009/) - [LinkedIn](https://www.linkedin.com/in/bolah2009/)
